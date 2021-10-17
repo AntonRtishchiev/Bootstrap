@@ -1,0 +1,124 @@
+header {
+    background: url(../IMG/header-bg.png) no-repeat center;
+    background-size: cover;
+  }
+  .home-title {
+    height: 100vh;
+    padding-bottom: 250px;
+  }
+  .video-right {
+    background: linear-gradient(rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.78)),
+      url(../IMG/video-bg.png) no-repeat center;
+    background-size: cover;
+    height: 350px;
+  }
+  .py-7 {
+    padding: 7rem 0;
+  }
+  #top_courses {
+    background-color: #f9f9ff;
+  }
+  .course .lnr {
+    color: #235ee7;
+    font-size: 30px;
+  }
+  
+.fluid-container .row
+{
+  margin-right: 0;
+}
+
+a
+{
+  text-decoration: none;
+  color: black;
+}
+
+#Some_Features .card
+{
+  background-color: #f9f9ff;
+  border-radius: 10px;
+}
+
+#Some_Features .lnr
+{
+  margin-right: 15px;
+}
+
+#Some_Features .card:hover
+{
+  box-shadow: 0px 10px 40px rgb(126 155 189 / 35%);
+}
+
+#Some_Features2
+{
+  background-color: #04091e;
+}
+
+#Some_Features2 .text-center p
+{
+  color: #cccccc;
+}
+
+#Some_Features2 a:hover 
+{
+  border-color: black;
+}
+
+#Some_Features3 .card
+{
+  background-color: #f9f9ff;
+  border-radius: 10px;
+}
+
+#Some_Features3 .card:hover
+{
+  background-color: white;
+  box-shadow: 0px 10px 40px rgb(126 155 189 / 35%);
+}
+
+
+
+#Frequently_Asked
+{
+  background: url(../IMG/faq-bg.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.accordion-button
+{
+  background-image: -webkit-linear-gradient(0deg, #235ee7 0%, #4ae7fa 100%);
+}
+
+.accordion-item
+{
+  background: transparent;
+  border: 0;
+}
+
+footer
+{
+  background-color: #04091e;
+}
+
+footer p
+{
+  color: #777;
+}
+
+.input-group-btn button
+{
+  background: -webkit-linear-gradient(0deg, #235ee7 0%, #4ae7fa 100%); 
+}
+
+.input-group input
+{
+  background: #191919;
+    color: #777;
+    border: 0;
+}
+
+i
+{
+  color: #cccccc;
+}
